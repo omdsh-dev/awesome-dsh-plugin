@@ -75,6 +75,7 @@ dsh plugin --profile web add dshmarket
 - [dingyi222666/dsh-focus-chat](https://github.com/dingyi222666/dsh-focus-chat) - A "focus chat" minimal view that shows only final outputs.
 - [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) - Interactive UI components rendered inline in replies: layout, charts, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model.
 - [omdsh-dev/dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) - Select text → annotate → send with your message; replies map back to each annotation.
+- [CanglongCl/dsh-web-review](https://github.com/CanglongCl/dsh-web-review) - Pick and annotate page elements in the built-in browser as in a design tool, preview visual tweaks, and have the agent apply them to your workspace source.
 - [vlln/dsh-navbar](https://github.com/vlln/dsh-navbar) - Conversation node navigation bar for quick jumps between user messages.
 - [asukasec/dsh-message-preview](https://github.com/asukasec/dsh-message-preview) - Right-edge user-message navigator with an adaptive block layout that fits the available height, plus hover previews, keyboard controls, and click-to-jump navigation.
 - [jjxjjjjiik-bot/dsh-chat-timeline](https://github.com/jjxjjjjiik-bot/dsh-chat-timeline) - 1:1 port of DeepSeek's official web right-side chat navigation rail (ScrollNav): hover-expandable rail, reading-position highlight, click-to-jump.
