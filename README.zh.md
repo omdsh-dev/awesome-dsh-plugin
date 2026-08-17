@@ -198,6 +198,9 @@ dsh plugin --profile web add dshmarket
 - [ishuowang/dsh-sideband](https://github.com/ishuowang/dsh-sideband) — 在 DSH Session 与已授权 Agent Team Room 之间异步传递 LLM 总结的上下文，支持即时快照与定时摘要。
 - [mayf3/dsh-session-doctor](https://github.com/mayf3/dsh-session-doctor) — 会话医生：列出会话（含 agent 运行状态）、读取会话记录、诊断卡死的 agent、解卡（cancel + keepInbox 保留排队消息）、向其他会话发送消息。
 
+- [ClausYang/dsh-nav-keys](https://github.com/ClausYang/dsh-nav-keys) — 终端式输入历史召回：裸 ↑/↓ 在 Web 输入框翻阅已发送消息（光标意图感知——←/→/Home/End 或鼠标定位后 ↑/↓ 自动恢复为行间移动）；Ctrl/Cmd+↑/↓ 无条件召回。
+- [ClausYang/dsh-esc-stop](https://github.com/ClausYang/dsh-esc-stop) — 输入框聚焦时按 Esc 立即停止当前生成，无需点停止按钮；弹窗与菜单优先消费 Esc，不误触。
+
 ### 🧠 记忆
 
 - [LoserFox/distill](https://github.com/LoserFox/distill) — 自动对话蒸馏：后台 subagent 反省 + 技能 create/update。
