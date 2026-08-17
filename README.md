@@ -149,6 +149,7 @@ dsh plugin --profile web add dshmarket
 - [x2802490130-prog/dsh-lan-pass](https://github.com/x2802490130-prog/dsh-lan-pass) - A LAN password gate for the Web UI: phones and tablets on the same network log in with a shared key and see the same sessions in real time, with a built-in randomUUID polyfill for plain-HTTP origins.
 - [magicOF2/dsh-turn-marks](https://github.com/magicOF2/dsh-turn-marks) - Left-edge turn-marks strip in chat: one bar per user message, click to jump to that message, hover for a preview, active bar turns white.
 - [magicOF2/dsh-chat-width-customizer](https://github.com/magicOF2/dsh-chat-width-customizer) - Session-header button that cycles the conversation width (748-1600px), widening the chat column, composer, and user bubbles together.
+- [Jiyr0119/dsh-workspace-explorer](https://github.com/Jiyr0119/dsh-workspace-explorer) - Standalone workspace file-tree panel for the DSH Web UI: browse the workspace directory and click or drag a file to insert its reference into the composer, with search, inline preview, live settings, and zh/en i18n; single-purpose, zero-config, one-command install.
 ### Themes & Appearance
 
 - [KinGao294/dsh-skin](https://github.com/KinGao294/dsh-skin) - Codex-style skin switcher plus a custom wallpaper layer with opacity and blur controls.
