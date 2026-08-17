@@ -200,6 +200,9 @@ dsh plugin --profile web add dshmarket
 - [ishuowang/dsh-sideband](https://github.com/ishuowang/dsh-sideband) - Asynchronous, LLM-summarized context relay between DSH Sessions and authorized Agent Team Rooms, with instant snapshots and scheduled digests.
 - [mayf3/dsh-session-doctor](https://github.com/mayf3/dsh-session-doctor) - Diagnose, unstick, and read DSH sessions: list sessions with agent status, read conversations, diagnose stuck agents, recover them with cancel+keepInbox, and send messages to other sessions.
 
+- [ClausYang/dsh-nav-keys](https://github.com/ClausYang/dsh-nav-keys) - Terminal-style input history: bare Up/Down recalls sent messages in the Web composer (caret intent-aware - Left/Right/Home/End or mouse positioning switches arrows back to line movement); Ctrl/Cmd+Up/Down force-recall anytime.
+- [ClausYang/dsh-esc-stop](https://github.com/ClausYang/dsh-esc-stop) - Press Esc in the focused composer to stop the running turn - no need to click Stop; defers to popups and menus that consume Esc first.
+
 ### Memory
 
 - [LoserFox/distill](https://github.com/LoserFox/distill) - Automatic conversation distillation: background subagent reflection + skill create/update.
