@@ -502,6 +502,7 @@ dsh plugin --profile web add dshmarket
 - [609476965/dsh-LorebookMD](https://github.com/609476965/dsh-LorebookMD) - Import SillyTavern/TavernAI character cards and world books, save them as local Markdown lore documents, and generate novel prose from your prompts with the world settings as reference.
 - [Awu12277/dsh-stock-watch](https://github.com/Awu12277/dsh-stock-watch) - A-share watchlist real-time market monitoring plugin: a collapsible popup in the top-right corner of the DeepSeek Harness (DSH) web interface for real-time quote monitoring, group switching, intraday and candlestick (K-line) charts, and buy/sell target price settings.
 - [sjh9714/clippy-harness#plugin](https://github.com/sjh9714/clippy-harness/tree/master/plugin) - Clippy is back and this time he can actually help. An office assistant pet that reacts to real agent state, jumps when the turn completes, and opens a classic "illegal operation" dialog when a turn fails.
+- [Liujelly/dsh-memewiki](https://github.com/Liujelly/dsh-memewiki) - Meme wiki for Chinese internet slang: 6,668 offline entries in SQLite, a lookup tool, pre-query context injection, and a settings page for your own slang.
 
 
 ## Contributing
