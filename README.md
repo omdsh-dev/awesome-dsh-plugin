@@ -199,6 +199,7 @@ dsh plugin --profile web add dshmarket
 - [beijingwahw/dsh-companion](https://github.com/beijingwahw/dsh-companion) - Four-module session companion: smart conversation export (Markdown/PDF/JSON/PNG long-image with privacy redaction and batch ZIP), context handoff summaries with template save/import, API cost optimization (live official pricing, peak/off-peak scheduling, daily/monthly budgets, model routing), and global conversation search with in-chat find (Ctrl+F, CSS Custom Highlight API).
 - [ishuowang/dsh-sideband](https://github.com/ishuowang/dsh-sideband) - Asynchronous, LLM-summarized context relay between DSH Sessions and authorized Agent Team Rooms, with instant snapshots and scheduled digests.
 - [mayf3/dsh-session-doctor](https://github.com/mayf3/dsh-session-doctor) - Diagnose, unstick, and read DSH sessions: list sessions with agent status, read conversations, diagnose stuck agents, recover them with cancel+keepInbox, and send messages to other sessions.
+- [ShuaihuiMou/dsh-task-timer](https://github.com/ShuaihuiMou/dsh-task-timer) - A clock-led pill in the composer dock showing this session's working time (model plus tool time, minus the stretches a question sat waiting for your answer), a dialog with the span from the conversation's first message to its last activity, a relative "55min ago" reading on each workspace session row, and the all-conversation time and token total above the sidebar account row.
 
 ### Memory
 
